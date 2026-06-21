@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Amir Fallahi — DevAmir99</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF">
+  <img src="https://raw.githubusercontent.com/devamir99/devamir99/main/heroSectionOfSite.png" width="900" alt="Portfolio Screenshot">
 </p>
 
 <p align="center">
