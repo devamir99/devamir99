@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Amir Fallahi — DevAmir</h1>
+<h1 align="center">Hi Im Amir Fallahi | DevAmir</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devamir99/devamir99/main/heroSectionOfSite.png" width="900" alt="Portfolio Screenshot">
