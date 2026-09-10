@@ -79,7 +79,7 @@ I also pay attention to **UI/UX fundamentals**, making sure the products I devel
 **Name:** Amir Fallahi  
 **Email:** devamir99@gmail.com  
 **GitHub:** https://github.com/DevAmir99  
-**website:** devamir.com
+**website:** https://devamir.com/
 
 
 ---
