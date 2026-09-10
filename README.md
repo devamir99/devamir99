@@ -106,12 +106,7 @@ I also pay attention to **UI/UX fundamentals**, making sure the products I devel
 
 <br/>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=devamir99&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+
 
 <p align="center">
   <img
