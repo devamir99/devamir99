@@ -90,8 +90,8 @@ I also pay attention to **UI/UX fundamentals**, making sure the products I devel
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=devamir99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6"
-    alt="GitHub Trophies"
+    src="https://stats.fiverse.my/api/commits?username=devamir99"
+    alt="GitHub Commits"
   />
 </p>
 
@@ -99,12 +99,19 @@ I also pay attention to **UI/UX fundamentals**, making sure the products I devel
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=devamir99&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
+    src="https://stats.fiverse.my/api/languages?username=devamir99"
+    alt="Top Languages"
   />
 </p>
 
 <br/>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=devamir99&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 <p align="center">
   <img
