@@ -77,9 +77,10 @@ I also pay attention to **UI/UX fundamentals**, making sure the products I devel
 
 ## Contact  
 **Name:** Amir Fallahi  
-**website:** devamir.com
 **Email:** devamir99@gmail.com  
 **GitHub:** https://github.com/DevAmir99  
+**website:** devamir.com
+
 
 ---
 
@@ -89,8 +90,8 @@ I also pay attention to **UI/UX fundamentals**, making sure the products I devel
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=devamir99&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
+    src="https://github-profile-trophy.vercel.app/?username=devamir99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6"
+    alt="GitHub Trophies"
   />
 </p>
 
@@ -98,8 +99,8 @@ I also pay attention to **UI/UX fundamentals**, making sure the products I devel
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devamir99&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=devamir99&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
   />
 </p>
 
