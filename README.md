@@ -85,18 +85,29 @@ I also pay attention to **UI/UX fundamentals**, making sure the products I devel
 
 <br/>
 
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevAmir99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=devamir99&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAmir99&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devamir99&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DevAmir99&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=devamir99&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
