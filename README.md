@@ -86,27 +86,6 @@ I also pay attention to **UI/UX fundamentals**, making sure the products I devel
 
 <br/>
 
-<br/>
-
-<p align="center">
-  <img
-    src="https://stats.fiverse.my/api/commits?username=devamir99"
-    alt="GitHub Commits"
-  />
-</p>
-
-<br/>
-
-<p align="center">
-  <img
-    src="https://stats.fiverse.my/api/languages?username=devamir99"
-    alt="Top Languages"
-  />
-</p>
-
-<br/>
-
-
 <!-- ========================================= -->
 <!-- 1. GitHub Profile Summary - Profile -->
 <!-- ========================================= -->
@@ -159,73 +138,3 @@ I also pay attention to **UI/UX fundamentals**, making sure the products I devel
 
 <br/>
 
-<!-- ========================================= -->
-<!-- 5. GitHub Activity Graph -->
-<!-- ========================================= -->
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=devamir99&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
-<br/>
-
-<!-- ========================================= -->
-<!-- 6. GitHub Profile Trophy -->
-<!-- ========================================= -->
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=devamir99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6"
-    alt="GitHub Trophies"
-  />
-</p>
-
-<br/>
-
-<!-- ========================================= -->
-<!-- 7. GitHub Readme Stats -->
-<!-- ========================================= -->
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=devamir99&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<br/>
-
-<!-- ========================================= -->
-<!-- 8. Top Languages -->
-<!-- ========================================= -->
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devamir99&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-<br/>
-
-<!-- ========================================= -->
-<!-- 9. Profile Views -->
-<!-- ========================================= -->
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=devamir99&style=for-the-badge&color=blue"
-    alt="Profile Views"
-  />
-</p>
-
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=devamir99&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
